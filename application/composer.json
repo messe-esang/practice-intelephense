@@ -1,0 +1,12 @@
+{
+	"name": "messe-esang/practice-intelephense",
+	"type": "project",
+	"license": "MIT",
+	"authors": [{
+		"name": "Solution Development",
+		"email": "dev.it@esgroup.net"
+	}],
+	"require": {
+		"symfony/string": "^5.2"
+	}
+}
