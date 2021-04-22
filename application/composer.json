@@ -1,12 +1,19 @@
 {
-	"name": "messe-esang/practice-intelephense",
-	"type": "project",
-	"license": "MIT",
-	"authors": [{
-		"name": "Solution Development",
-		"email": "dev.it@esgroup.net"
-	}],
-	"require": {
-		"symfony/string": "^5.2"
-	}
+    "name": "messe-esang/practice-intelephense",
+    "type": "project",
+    "license": "MIT",
+    "description": "솔루션 개발팀을 위한 새로운 병기 intelephense + php 연습하기",
+    "authors": [{
+        "name": "Solution Development",
+        "email": "dev.it@esgroup.net"
+    }],
+    "require": {
+        "symfony/string": "^5.2",
+        "illuminate/collections": "^8.38"
+    },
+    "autoload": {
+        "psr-4": {
+            "MesseEsang\\Practice\\": "practice-intelephense/"
+        }
+    }
 }

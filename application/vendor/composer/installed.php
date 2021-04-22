@@ -1,24 +1,69 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => 'c745e64ef1c6842b670be77b819624b038d0e53c',
     'name' => 'messe-esang/practice-intelephense',
   ),
   'versions' => 
   array (
-    'messe-esang/practice-intelephense' => 
+    'illuminate/collections' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'v8.38.0',
+      'version' => '8.38.0.0',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '21690cd5591f2d42d792e5e4a687f9beba829f1d',
+    ),
+    'illuminate/contracts' => 
+    array (
+      'pretty_version' => 'v8.38.0',
+      'version' => '8.38.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '5764f703ea8f74ced163125d810951cd5ef2b7e1',
+    ),
+    'illuminate/macroable' => 
+    array (
+      'pretty_version' => 'v8.38.0',
+      'version' => '8.38.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '300aa13c086f25116b5f3cde3ca54ff5c822fb05',
+    ),
+    'messe-esang/practice-intelephense' => 
+    array (
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'c745e64ef1c6842b670be77b819624b038d0e53c',
+    ),
+    'psr/container' => 
+    array (
+      'pretty_version' => '1.1.1',
+      'version' => '1.1.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8622567409010282b7aeebe4bb841fe98b58dcaf',
+    ),
+    'psr/simple-cache' => 
+    array (
+      'pretty_version' => '1.0.1',
+      'version' => '1.0.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '408d5eafb83c57f6365a3ca330ff23aa4a5fa39b',
     ),
     'symfony/polyfill-ctype' => 
     array (
