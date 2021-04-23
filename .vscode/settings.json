@@ -4,5 +4,6 @@
         "endregion",
         "intelephense",
         "symfony"
-    ]
+    ],
+    "todo-tree.tree.scanMode": "workspace"
 }

@@ -1,0 +1,37 @@
+[{
+    "id": 1,
+    "groupId": 1,
+    "codeName": "공지사항",
+    "codeValue": "NOTICE",
+    "sequence": 1
+}, {
+    "id": 2,
+    "groupId": 1,
+    "codeName": "일반",
+    "codeValue": "NORMAL",
+    "sequence": 2
+}, {
+    "id": 3,
+    "groupId": 1,
+    "codeName": "이벤트",
+    "codeValue": "EVENT",
+    "sequence": 3
+}, {
+    "id": 4,
+    "groupId": 1,
+    "codeName": "문의",
+    "codeValue": "INQUIRY",
+    "sequence": 4
+}, {
+    "id": 5,
+    "groupId": 2,
+    "codeName": "관리자",
+    "codeValue": "ADMIN",
+    "sequence": 1
+}, {
+    "id": 6,
+    "groupId": 2,
+    "codeName": "회원",
+    "codeValue": "MEMBER",
+    "sequence": 2
+}]

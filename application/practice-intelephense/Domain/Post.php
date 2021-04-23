@@ -15,6 +15,12 @@ class Post
     public $postId;
 
     /**
+     * 
+     * @var string
+     */
+    public $type;
+
+    /**
      * 제목
      * @var string
      */

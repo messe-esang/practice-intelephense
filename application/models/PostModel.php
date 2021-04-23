@@ -49,6 +49,7 @@ class PostModel extends CI_Model
      */
     public function findPosts(FindPostParameters $params = null): array
     {
+        // TODO: 파라미터($params)를 이용하여 검색 필터 기능 추가
         return $this->posts->all();
     }
 
