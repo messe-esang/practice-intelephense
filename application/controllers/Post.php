@@ -28,7 +28,7 @@ class Post extends CI_Controller
     public function list()
     {
         $pageModel = [
-            'posts' => $this->post->findPosts()
+            'posts' => $this->postModel->findPosts()
         ];
 
         $this->load->view('post/list', $pageModel);

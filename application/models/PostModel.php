@@ -39,6 +39,8 @@ class PostModel extends CI_Model
             });
     }
 
+    #region Public Methods
+
     /**
      * 게시글 검색
      * 
@@ -49,6 +51,8 @@ class PostModel extends CI_Model
     {
         return $this->posts->all();
     }
+
+    #endregion
 }
 
 /* End of file Post.php */

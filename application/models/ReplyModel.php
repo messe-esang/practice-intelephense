@@ -27,6 +27,7 @@ class ReplyModel extends CI_Model
                 return mapping($p, new Reply());
             });
     }
+
     /**
      * 
      * @author Hyeonmin Seon
