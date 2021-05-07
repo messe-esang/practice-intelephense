@@ -49,4 +49,13 @@ class Post
      * @var Reply[]
      */
     public $replies;
+
+    /**
+     * 
+     * @return int 
+     */
+    public function getReplyCount(): int
+    {
+        return count($this->replies);
+    }
 }

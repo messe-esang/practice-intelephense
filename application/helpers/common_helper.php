@@ -18,6 +18,12 @@ function mapping($source, $target)
 }
 
 // TODO : PHP Doc 작성 예시
+/**
+ * 마스터 코드 반환
+ * 
+ * @param int $masterCodeGroupId 
+ * @return array 
+ */
 function masterCodes(int $masterCodeGroupId): array
 {
     # code...
