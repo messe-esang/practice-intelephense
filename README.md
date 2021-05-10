@@ -38,7 +38,7 @@
     - FILE SEARCH
   - 해당 페이지 기호 검색 `(Ctrl + Shift + o)`
     - 해당 페이지에서 클래스, 메서드, 변수, 함수 등을 검색
-    - LOCAL SYMBOL
+    - [![LOCAL SYMBOL](docs/images/php-local-symbol.gif)](https://youtu.be/fZLz-M5cQHk)
   - 전역 기호(Symbol) 검색 `(Ctrl + t)`
     - 위 기능과 같으나 클래스, 메서드, 변수 등을 자유자재로 이동 가능
     - [![SYMBOL](docs/images/php-symbol.gif)](https://youtu.be/vPpFeioyFTw)
