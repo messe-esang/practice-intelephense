@@ -32,7 +32,7 @@
     - [![MOUSE HOVER](docs/images/php-manual.gif)](https://youtu.be/tUZS7mwnfmc)
   - 선언 (Declaration) 이동 `(F12)`
     - 해당 변수가 만들어진 시작점으로 바로 이동 가능함
-    - [![DEFINITION](docs/images/php-definition.gif)](https://youtu.be/sQoUpZuALVY)
+    - [![DECLARATION](docs/images/php-declaration.gif)](https://youtu.be/sQoUpZuALVY)
   - 파일 검색 `(Ctrl + p)`
     - 디렉토리 + 파일 조합으로 원하는 파일로 쉽게 이동 가능
     - FILE SEARCH
@@ -44,10 +44,10 @@
     - [![SYMBOL](docs/images/php-symbol.gif)](https://youtu.be/vPpFeioyFTw)
   - 코드 접고/펴기 `(Ctrl + Shift + [, ])`, 전체 접고/펴기 `(Ctrl + k + Ctrl + 0/J)`
     - 해당 구역 내부(중괄호, 태그 시작~끝 영역 등)에서 수행하면 내부 코드를 안보이게 접게 해준다
-  - 정의(definition) 이동 `(F12)`
     - [![FOLD/UNFOLD](docs/images/php-codefold.gif)](https://youtu.be/wtNpnmWJrQ8)
+  - 정의(definition) 이동 `(F12)`
     - 상속 등을 통해서 오버로드 된 경우라면 해당 메서드의 선언부로 이동시켜준다. 정의 이동 기능과 동일하게 생각하면 됨
-    - [![DECLARATION](docs/images/php-declaration.gif)](https://youtu.be/UhmNP2LwItQ)
+    - [![DEFINITION](docs/images/php-definition.gif)](https://youtu.be/UhmNP2LwItQ)
   - 모든 구현체 찾기 `(Shift + F12)`
     - 해당 변수/메서드 등이 워크스페이스 내부에서 사용된 모든 코드들을 보여준다
     - [![ALL REFERENCES](docs/images/php-all-references.gif)](https://youtu.be/MKFHoQhhAUs)
