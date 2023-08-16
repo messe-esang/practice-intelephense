@@ -33,7 +33,8 @@ class Post extends CI_Controller
         // TODO : get 파라미터를 받아서 FindPostParameters 객체를 생성해 findPosts 로 넘기는 코드 작성 (import 사용)
 
         $model = [
-            'posts' => $this->postModel->findPosts()
+            'abcd' => [],
+            'posts123' => $this->postModel->findPosts()
         ];
 
         $this->load->view('post/list', $model);
